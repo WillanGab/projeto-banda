@@ -1,0 +1,47 @@
+body{
+    background-color: #181818;
+}
+
+.Título-P{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Banda-G{
+    position: absolute;
+
+    top: 200px;
+    right: 0px;
+    left: 350px;
+    bottom: 100px;
+}
+
+.Banda-Q{
+    position: absolute;
+
+    top: 200px;
+    right: 0px;
+    left: 860px;
+    bottom: 100px;
+}
+
+.Banda-L{
+    position: absolute;
+
+    top: 740px;
+    right: 0px;
+    left: 350px;
+    bottom: 100px;
+}
+
+.Banda-M{
+    position: absolute;
+
+    top: 740px;
+    right: 0px;
+    left: 860px;
+    bottom: 100px;
+}
